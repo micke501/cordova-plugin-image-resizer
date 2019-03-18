@@ -11,7 +11,7 @@ Use the Cordova CLI and type in the following command:
 cordova plugin add cordova-plugin-camera
 
 // This plugin
-cordova plugin add https://github.com/protonet/cordova-plugin-image-resizer.git
+cordova plugin add https://github.com/micke501/cordova-plugin-image-resizer.git
 ```
 ## Sample Code
 
